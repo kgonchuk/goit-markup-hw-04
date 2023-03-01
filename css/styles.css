@@ -650,8 +650,8 @@ background-color: var(--dark);
 .project-link{
   display: block;
 }
-.project-card-content:hover,
-.project-card-content:focus{
+.project-item:hover,
+.project-item:focus{
   box-shadow: 4px 4px 3px 0px rgba(125,125,125,1);
 
 
